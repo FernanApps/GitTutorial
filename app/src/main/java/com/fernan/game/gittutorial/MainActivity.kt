@@ -36,6 +36,7 @@ class MainActivity : AppCompatActivity() {
                 .setAction("Action", null).show()
         }
         print("HolaMundo")
+        print("Hola Nuevamente")
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {

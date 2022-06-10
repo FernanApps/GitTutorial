@@ -35,19 +35,7 @@ class MainActivity : AppCompatActivity() {
                 .setAnchorView(R.id.fab)
                 .setAction("Action", null).show()
         }
-        print("HolaMundo")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
-        print("Hola Nuevamente 2")
+
 
 
     }

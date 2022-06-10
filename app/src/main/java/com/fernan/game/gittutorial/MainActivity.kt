@@ -14,6 +14,8 @@ import com.fernan.game.gittutorial.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    // is HappyFeature
+    // :)
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
